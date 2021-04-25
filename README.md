@@ -5,7 +5,6 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -17,27 +16,31 @@
 
 <br>
 
-## 🚀 Tecnologias
+# 📸 Overview:
+![](./public/images/readmeImages/jobscalc.png)
+![](./public/images/readmeImages/jobData.png)
+![](./public/images/readmeImages/jobProfile.png)
+
+# 💻 Projeto
+
+• O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir jobs (projetos), obtendo uma estimativa de custo de cada job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema 💰 <br /> <br />
+• O Projeto foi desenvolvido na maratona discover 2 elaborado pela Rocketseat.
+<br /> <br />
+• A aplicação conta tanto com o Front-end quanto com o Back-end.
+
+# 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
-- JavaScript
-- NodeJS
-- EJS
-- Express
-- SQLite
+✔️ HTML <br />
+✔️ CSS <br />
+✔️ JavaScript <br />
+✔️ NodeJS <br />
+✔️ EJS <br />
+✔️ Express <br />
+✔️ SQLite
 
-## 💻 Projeto
-
-O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir jobs (projetos), obtendo uma estimativa de custo de cada job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema 💰
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/s4fytPFbDiSkv4GPSfKaLE/Jobs-Planning). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
+# 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
