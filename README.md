@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 #### ✔️ HTML <br />
 #### ✔️ CSS <br />
 #### ✔️ JavaScript <br />
-#### ✔️ NodeJS <br />
+#### ✔️ Node.js <br />
 #### ✔️ EJS <br />
 #### ✔️ Express <br />
 #### ✔️ SQLite
